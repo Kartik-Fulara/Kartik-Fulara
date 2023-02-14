@@ -15,7 +15,7 @@
 
 ![Katik Fulara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-Fulara&theme=codeSTACKr&show_icons=true)
 
-[![Top Languages Used By Katik Fulara](https://github-readme-stats.vercel.app/api/top-langs/?username=Katik-Fulara&layout=compact)](https://github.com/Katik-Fulara/github-readme-stats)
+[![Top Languages Used By Katik Fulara](https://github-readme-stats.vercel.app/api/top-langs/?username=Katik-Fulara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Kartik-Fulara/Kartik-Fulara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
